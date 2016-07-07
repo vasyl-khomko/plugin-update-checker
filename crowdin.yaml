@@ -1,7 +1,4 @@
 files:
   - 
-    source: /README.md
-    translation: '/README-%two_letters_code%.md'
-  - 
     source: '/languages/*.pot'
     translation: '/languages/%file_name%-%locale_with_underscore%.po'
