@@ -388,7 +388,3 @@ msgid ""
 "and themes. It also allows for remote installation of plugins or themes into "
 "WordPress."
 msgstr ""
-
-#. Author of the plugin/theme
-msgid "Andy Fragen"
-msgstr ""
